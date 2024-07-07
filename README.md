@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iiMoham
-- 👀 I’m interested in appdevelop
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web development
 - 📫 How to reach me +966548975406
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
