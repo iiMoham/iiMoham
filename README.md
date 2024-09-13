@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @iiMoham
 - 👀 I’m interested in Web development
 - 📫 How to reach me +966548975406
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 iiMoham/iiMoham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
